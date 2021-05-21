@@ -1,0 +1,13 @@
+{"sections": [{
+    "cameras": [{
+        "identification": "Camera #0",
+        "position": "center",
+        "status": false
+    }],
+    "sectionID": "kitchen",
+    "lights": [{
+        "brightness": 3,
+        "label": "Light #0",
+        "status": false
+    }]
+}]}

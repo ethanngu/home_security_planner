@@ -1,0 +1,129 @@
+{"sections": [
+    {
+        "cameras": [
+            {
+                "identification": "Camera #0",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #1",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #40",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #53",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #2",
+                "position": "center",
+                "status": false
+            }
+        ],
+        "sectionID": "entrance",
+        "lights": [
+            {
+                "brightness": 3,
+                "label": "Light #0",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #1",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #53",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #2",
+                "status": false
+            }
+        ]
+    },
+    {
+        "cameras": [{
+            "identification": "Camera #53",
+            "position": "center",
+            "status": false
+        }],
+        "sectionID": "exit",
+        "lights": [{
+            "brightness": 3,
+            "label": "Light #0",
+            "status": false
+        }]
+    },
+    {
+        "cameras": [{
+            "identification": "Camera #43",
+            "position": "center",
+            "status": false
+        }],
+        "sectionID": "garage",
+        "lights": [
+            {
+                "brightness": 3,
+                "label": "Light #0",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #1",
+                "status": false
+            }
+        ]
+    },
+    {
+        "cameras": [
+            {
+                "identification": "Camera #0",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #40",
+                "position": "center",
+                "status": false
+            },
+            {
+                "identification": "Camera #53",
+                "position": "center",
+                "status": false
+            }
+        ],
+        "sectionID": "living room",
+        "lights": [
+            {
+                "brightness": 3,
+                "label": "Light #0",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #40",
+                "status": false
+            },
+            {
+                "brightness": 3,
+                "label": "Light #53",
+                "status": false
+            }
+        ]
+    },
+    {
+        "cameras": [],
+        "sectionID": "yard",
+        "lights": []
+    }
+]}
